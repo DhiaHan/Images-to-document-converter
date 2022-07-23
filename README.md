@@ -9,13 +9,15 @@ If you have pictures/screenshots that are for a book/news paper/article or anyth
 
 (One time steps)
 
-1. Clone the repository, using : 
+1. Make sure you have python installed on your device.
+
+2. Clone the repository, using : 
 
 ```
 git clone https://github.com/DhiaHan/Images-to-document-converter
 
 ```
-2. Go to the repository folder, open cmd/terminal and type :
+3. Go to the repository folder, open cmd/terminal and type :
 
 ```
 pip3 install -r requirements.txt
@@ -25,6 +27,7 @@ pip3 install -r requirements.txt
 
 1. Create a folder that contains all the images you want to convert, and you sould name them with numbers (sorted),
    For example : 1.jpg, 2.jpg, 3.jpg ...
+   it's not an important step, but in case you skipped it, the document's pages might not be sorted.
   
 2. Create a folder where the output documents will be saved.
 
